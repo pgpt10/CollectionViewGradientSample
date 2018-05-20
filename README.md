@@ -1,4 +1,4 @@
-# CollectionViewGradientSample
+# Selectively Add & Remove Gradient — UICollectionViewCell
 
 Playing with Collection Views is so much fun and challenging. One of the things I came across is using gradients with collection views.
 
