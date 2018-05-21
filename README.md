@@ -6,6 +6,9 @@ Adding gradient to a `UICollectionView` or `UICollectionViewCell` is as simple a
 
 Another challenge is, what if we need to add gradient to a `UICollectionViewCell` on selection and remove it when the `UICollectionViewCell` is de-selected.
 
+## Preview
+<img src="https://github.com/pgpt10/CollectionViewGradientSample/blob/master/Screenshot.gif">
+
 ## Pre-requisites
 Before we start coding, let’s see what we already have 🧐 and how can we use that to solve our problem statement.
 
